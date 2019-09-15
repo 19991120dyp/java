@@ -1,0 +1,11 @@
+public class ShowSyntaxErrors {
+
+	public static main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println(“Welcome to Java);
+	}
+
+}
+
+第三行“static”后缺了“void”
+第五行缺少引号
